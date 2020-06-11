@@ -15,4 +15,21 @@ git clone https://github.com/rocwong-cn/teach-girl-friend-git.git
 git add <file>
 ```
 把文件加到Git本地暂存区
-asdasda
+
+
+## git commit
+
+```shell
+git commit -a -m '说明文字'
+```
+
+## git push
+推送本地暂存区的代码到远端服务器；
+
+## git stash / git stash pop
+代码临时缓存
+
+## git checkout (-b)
+检出分支（新建分支）
+
+
