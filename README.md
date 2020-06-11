@@ -32,4 +32,11 @@ git commit -a -m '说明文字'
 ## git checkout (-b)
 检出分支（新建分支）
 
+## git merge
+## git pull
+## git fetch
+## git rebase  变基
+## git cherry-pick 
+## git reset --hard xxxx
+
 
